@@ -1,0 +1,1 @@
+/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
