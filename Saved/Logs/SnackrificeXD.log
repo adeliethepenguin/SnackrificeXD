@@ -9015,3 +9015,146 @@ Script Stack (0 frames) :
 [2024.12.02-18.26.51:019][283]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/BP_ThirdPersonCharacter12_Auto287F66A3E47F18586C9778F8EAB393BD7.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12_Auto2.uasset'
 [2024.12.02-18.26.51:020][283]LogFileHelpers: Auto-saving content packages took 0.041
 [2024.12.02-19.14.56:492][108]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.134 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1766 files in 2854 folders with total size 105 MiB.
+[2024.12.02-19.37.36:808][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.12.02-19.37.39:701][188]LogSlate: Window 'Save Content' being destroyed
+[2024.12.02-19.37.39:781][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-19.37.39:841][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Other_Guys/lehamster/booomblox1" FILE="../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox1.uasset" SILENT=true
+[2024.12.02-19.37.39:843][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox1
+[2024.12.02-19.37.39:843][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox10E9A3E214DE36D9F8D9D3E8CE4416B0C.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox1.uasset'
+[2024.12.02-19.37.39:873][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_0
+[2024.12.02-19.37.39:873][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_0FB07591A4AE20B8BADB0E9933930ED77.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_0.uasset'
+[2024.12.02-19.37.39:877][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_1
+[2024.12.02-19.37.39:877][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_1924DBDE74C6FD42265EC6592ABF149DA.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_1.uasset'
+[2024.12.02-19.37.39:881][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_2
+[2024.12.02-19.37.39:881][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_2B6D0BBD441CE21C9AE4EB18CED902C78.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_2.uasset'
+[2024.12.02-19.37.39:884][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_3
+[2024.12.02-19.37.39:884][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_380F363FA47319CAB194DAC9508436A31.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_3.uasset'
+[2024.12.02-19.37.39:905][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_4
+[2024.12.02-19.37.39:905][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_4B37D733744C1B36A67314B8B8ED0E0E9.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_4.uasset'
+[2024.12.02-19.37.39:925][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_5
+[2024.12.02-19.37.39:925][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_5640842E94964289365F8F6986EE4B857.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_5.uasset'
+[2024.12.02-19.37.39:928][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_6
+[2024.12.02-19.37.39:928][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_6059114C74350BE1A9E353986AFF4031B.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_6.uasset'
+[2024.12.02-19.37.39:932][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_7
+[2024.12.02-19.37.39:932][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_77A396165487A922C20909F9CB4F916CE.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/booomblox_Sprite_7.uasset'
+[2024.12.02-19.37.39:973][188]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12
+[2024.12.02-19.37.39:974][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/BP_ThirdPersonCharacter128277793F4CDD8489B64CA295A00C5386.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12.uasset'
+[2024.12.02-19.37.39:977][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_0
+[2024.12.02-19.37.39:977][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_0A632FA134D8CDC1037606EBB5EA2E69B.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_0.uasset'
+[2024.12.02-19.37.39:980][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_1
+[2024.12.02-19.37.39:980][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_1B9B3EE014503D0935C32D3B5DDAC4C04.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_1.uasset'
+[2024.12.02-19.37.39:982][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_2
+[2024.12.02-19.37.39:983][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_24646AD5248BE65EF5756D595A08DF205.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_2.uasset'
+[2024.12.02-19.37.39:994][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_3
+[2024.12.02-19.37.39:994][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_33E8A333943582071208ED5863EB24E9A.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_3.uasset'
+[2024.12.02-19.37.39:998][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_4
+[2024.12.02-19.37.39:998][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_4E7B9CF63432AA2B787702FB77BE3BF54.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_4.uasset'
+[2024.12.02-19.37.40:003][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_5
+[2024.12.02-19.37.40:003][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_5B4C1CEAA4588CA8CE5EBA29988A8B78E.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_5.uasset'
+[2024.12.02-19.37.40:006][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_6
+[2024.12.02-19.37.40:006][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_67FA2B22543BBDB68F6E53BA592DF127D.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_6.uasset'
+[2024.12.02-19.37.40:009][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_7
+[2024.12.02-19.37.40:009][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_79FCB4C0A470C4C5BF0909D9576B69D8B.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/brumpet_Sprite_7.uasset'
+[2024.12.02-19.37.40:012][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_0
+[2024.12.02-19.37.40:012][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_0A0BDCA7F4FC8102E37C966AFF3561BB1.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_0.uasset'
+[2024.12.02-19.37.40:016][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_1
+[2024.12.02-19.37.40:016][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_19DC7CE014983DADF3A1C8F96BD759AEE.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_1.uasset'
+[2024.12.02-19.37.40:019][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_2
+[2024.12.02-19.37.40:019][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_225060CEC47A631A3CCB1C7AB8825C1E2.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_2.uasset'
+[2024.12.02-19.37.40:051][188]LogSavePackage: Moving output files for package: /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_3
+[2024.12.02-19.37.40:052][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_337A7BDEE4F8326561D45C997F7E04511.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_3.uasset'
+[2024.12.02-19.37.40:053][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Jump" FILE="../../../../../(more) Projects/SnackrificeXD/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" SILENT=true
+[2024.12.02-19.37.40:106][188]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Jump
+[2024.12.02-19.37.40:107][188]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/IA_Jump6247D0D34CF63FB3054EF1BB18FD1A13.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/ThirdPerson/Input/Actions/IA_Jump.uasset'
+[2024.12.02-19.37.40:123][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 341 ms (total: 12.9 sec)
+[2024.12.02-19.37.40:132][188]LogStall: Shutdown...
+[2024.12.02-19.37.40:168][188]LogStall: Shutdown complete.
+[2024.12.02-19.37.40:850][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.02-19.37.40:850][188]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-19.37.40:850][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-19.37.41:721][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.02-19.37.41:721][188]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-19.37.41:721][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-19.37.42:220][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.02-19.37.42:220][188]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-19.37.42:220][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-19.37.42:494][188]LogSlate: Window 'SnackrificeXD - Unreal Editor' being destroyed
+[2024.12.02-19.37.44:804][188]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.02-19.37.44:804][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/Sprites/Other_Guys/lehamster/booomblox1.booomblox1
+[2024.12.02-19.37.44:804][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_0.booomblox_Sprite_0
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_1.booomblox_Sprite_1
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_2.booomblox_Sprite_2
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_3.booomblox_Sprite_3
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_4.booomblox_Sprite_4
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_5.booomblox_Sprite_5
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_6.booomblox_Sprite_6
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_7.booomblox_Sprite_7
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12.BP_ThirdPersonCharacter12
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_0.brumpet_Sprite_0
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_1.brumpet_Sprite_1
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_2.brumpet_Sprite_2
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_3.brumpet_Sprite_3
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_4.brumpet_Sprite_4
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_5.brumpet_Sprite_5
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_6.brumpet_Sprite_6
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_7.brumpet_Sprite_7
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_0.frogguitar-Sheet-export_Sprite_0
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_1.frogguitar-Sheet-export_Sprite_1
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_2.frogguitar-Sheet-export_Sprite_2
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_3.frogguitar-Sheet-export_Sprite_3
+[2024.12.02-19.37.44:805][188]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Jump.IA_Jump
+[2024.12.02-19.37.44:842][188]AssetCheck: Error: [AssetLog] D:\(more) Projects\SnackrificeXD\Content\ThirdPerson\Input\Actions\IA_Jump.uasset: There cannot be a null Input Trigger on an Input Action!
+[2024.12.02-19.37.44:842][188]AssetCheck: Error: [AssetLog] D:\(more) Projects\SnackrificeXD\Content\ThirdPerson\Input\Actions\IA_Jump.uasset: There cannot be a null Input Trigger on an Input Action!
+[2024.12.02-19.37.44:845][188]AssetCheck: /Game/ThirdPerson/Input/Actions/IA_Jump contains invalid data.
+[2024.12.02-19.37.44:845][188]AssetCheck: Data validation FAILED.
+[2024.12.02-19.37.44:845][188]AssetCheck: Files Checked: 23, Passed: 22, Failed: 1, Skipped: 0, Unable to validate: 0
+[2024.12.02-19.37.44:957][189]Cmd: QUIT_EDITOR
+[2024.12.02-19.37.44:960][189]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.02-19.37.45:170][189]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.02-19.37.45:311][189]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.02-19.37.45:311][189]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.02-19.37.45:464][189]LogWorld: UWorld::CleanupWorld for Ham, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-19.37.45:464][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-19.37.46:425][189]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.02-19.37.48:287][189]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.02-19.37.48:287][189]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.02-19.37.48:287][189]LogAudio: Display: Audio Device unregistered from world 'Ham'.
+[2024.12.02-19.37.48:287][189]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.12.02-19.37.48:297][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.02-19.37.48:309][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.02-19.37.48:439][189]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.02-19.37.48:451][189]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2024.12.02-19.37.48:568][189]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.02-19.37.48:616][189]LogExit: Preparing to exit.
+[2024.12.02-19.37.49:703][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.12.02-19.37.49:743][189]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:762][189]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:799][189]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:803][189]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:804][189]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:804][189]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:804][189]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:804][189]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:804][189]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:805][189]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:805][189]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:805][189]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:807][189]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:807][189]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:807][189]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:807][189]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:807][189]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:807][189]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:808][189]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.49:811][189]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.02-19.37.53:042][189]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-19.37.53:043][189]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-19.37.53:045][189]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-19.37.53:046][189]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.02-19.37.53:046][189]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.02-19.37.53:046][189]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.02-19.37.53:046][189]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.02-19.37.53:046][189]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.02-19.37.53:046][189]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.02-19.37.53:046][189]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.12.02-19.37.53:046][189]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
