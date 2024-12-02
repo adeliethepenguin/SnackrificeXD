@@ -8798,3 +8798,220 @@ Script Stack (0 frames) :
 [2024.12.02-17.51.06:318][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 12.4 sec)
 [2024.12.02-17.51.06:319][163]AssetCheck: New page: Asset Save: Ham
 [2024.12.02-17.51.06:319][163]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Ham.Ham
+[2024.12.02-18.01.06:424][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.02-18.01.06:425][141]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Ham' took 0.024
+[2024.12.02-18.01.06:444][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_Jump] ([1] browsable assets)...
+[2024.12.02-18.01.06:444][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_Jump]
+[2024.12.02-18.01.06:455][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/Actions/IA_Jump_Auto0
+[2024.12.02-18.01.06:455][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/IA_Jump_Auto040A038204B8E5D874FB5ABA365C2FE59.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/ThirdPerson/Input/Actions/IA_Jump_Auto0.uasset'
+[2024.12.02-18.01.06:461][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_0] ([1] browsable assets)...
+[2024.12.02-18.01.06:461][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_0]
+[2024.12.02-18.01.06:474][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_0_Auto0
+[2024.12.02-18.01.06:474][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_0_Auto03C6AE9E649018AC29DC887B013323E6F.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_0_Auto0.uasset'
+[2024.12.02-18.01.06:474][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_1] ([1] browsable assets)...
+[2024.12.02-18.01.06:474][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_1]
+[2024.12.02-18.01.06:495][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_1_Auto0
+[2024.12.02-18.01.06:495][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_1_Auto0DDE8CE364A18304EEFE4348B16C9621D.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_1_Auto0.uasset'
+[2024.12.02-18.01.06:496][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_2] ([1] browsable assets)...
+[2024.12.02-18.01.06:496][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_2]
+[2024.12.02-18.01.06:498][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_2_Auto0
+[2024.12.02-18.01.06:498][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_2_Auto0B8471D5347E135B019520CA84F2FD12D.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_2_Auto0.uasset'
+[2024.12.02-18.01.06:498][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_3] ([1] browsable assets)...
+[2024.12.02-18.01.06:498][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_3]
+[2024.12.02-18.01.06:516][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_3_Auto0
+[2024.12.02-18.01.06:516][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_3_Auto05E7350AE4354AFD2A25EC080E1351905.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_3_Auto0.uasset'
+[2024.12.02-18.01.06:517][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_4] ([1] browsable assets)...
+[2024.12.02-18.01.06:517][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_4]
+[2024.12.02-18.01.06:518][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_4_Auto0
+[2024.12.02-18.01.06:518][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_4_Auto004A36ABE4EB7624B6C971EB0983596DC.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_4_Auto0.uasset'
+[2024.12.02-18.01.06:519][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_5] ([1] browsable assets)...
+[2024.12.02-18.01.06:519][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_5]
+[2024.12.02-18.01.06:548][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_5_Auto0
+[2024.12.02-18.01.06:548][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_5_Auto020A0B77C419E807744694597D99271E6.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_5_Auto0.uasset'
+[2024.12.02-18.01.06:549][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_6] ([1] browsable assets)...
+[2024.12.02-18.01.06:549][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_6]
+[2024.12.02-18.01.06:550][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_6_Auto0
+[2024.12.02-18.01.06:550][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_6_Auto0AA7BF5D34D81E1F65F09B2BA5410F453.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_6_Auto0.uasset'
+[2024.12.02-18.01.06:551][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_7] ([1] browsable assets)...
+[2024.12.02-18.01.06:551][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_7]
+[2024.12.02-18.01.06:552][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_7_Auto0
+[2024.12.02-18.01.06:552][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/brumpet_Sprite_7_Auto0AC0625804A9901574EAAA699FADB6B66.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/brumpet_Sprite_7_Auto0.uasset'
+[2024.12.02-18.01.06:553][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_0] ([1] browsable assets)...
+[2024.12.02-18.01.06:553][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_0]
+[2024.12.02-18.01.06:554][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_0_Auto0
+[2024.12.02-18.01.06:554][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_0266CC9DA4DBC1E1A8C58ACBB4B4A9640.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_0_Auto0.uasset'
+[2024.12.02-18.01.06:555][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_1] ([1] browsable assets)...
+[2024.12.02-18.01.06:555][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_1]
+[2024.12.02-18.01.06:556][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_1_Auto0
+[2024.12.02-18.01.06:556][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_1A8107079456C8CBB5EC98E9968678AEF.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_1_Auto0.uasset'
+[2024.12.02-18.01.06:557][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_2] ([1] browsable assets)...
+[2024.12.02-18.01.06:557][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_2]
+[2024.12.02-18.01.06:559][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_2_Auto0
+[2024.12.02-18.01.06:559][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_2442AF3364F72ED9B1E82B4A8A1C472C2.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_2_Auto0.uasset'
+[2024.12.02-18.01.06:560][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_3] ([1] browsable assets)...
+[2024.12.02-18.01.06:560][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_3]
+[2024.12.02-18.01.06:585][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_3_Auto0
+[2024.12.02-18.01.06:585][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/frogguitar-Sheet-export_Sprite_335A27109403202B81451B1A7E6227901.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/frogguitar-Sheet-export_Sprite_3_Auto0.uasset'
+[2024.12.02-18.01.06:586][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_0] ([1] browsable assets)...
+[2024.12.02-18.01.06:586][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_0]
+[2024.12.02-18.01.06:587][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_0_Auto0
+[2024.12.02-18.01.06:587][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_0_Auto005D3398741431BE8FAE217862AD45910.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_0_Auto0.uasset'
+[2024.12.02-18.01.06:588][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_1] ([1] browsable assets)...
+[2024.12.02-18.01.06:588][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_1]
+[2024.12.02-18.01.06:589][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_1_Auto0
+[2024.12.02-18.01.06:589][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_1_Auto03210B17445EBB5F0F23271916A51D4D2.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_1_Auto0.uasset'
+[2024.12.02-18.01.06:590][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_2] ([1] browsable assets)...
+[2024.12.02-18.01.06:590][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_2]
+[2024.12.02-18.01.06:591][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_2_Auto0
+[2024.12.02-18.01.06:591][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_2_Auto0675F6B3648CFE89EA86112B96D90DCFB.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_2_Auto0.uasset'
+[2024.12.02-18.01.06:592][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_3] ([1] browsable assets)...
+[2024.12.02-18.01.06:592][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_3]
+[2024.12.02-18.01.06:593][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_3_Auto0
+[2024.12.02-18.01.06:593][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_3_Auto00150A1E243326307894A4B938B3622FF.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_3_Auto0.uasset'
+[2024.12.02-18.01.06:594][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_4] ([1] browsable assets)...
+[2024.12.02-18.01.06:595][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_4]
+[2024.12.02-18.01.06:598][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_4_Auto0
+[2024.12.02-18.01.06:598][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_4_Auto01F6D865A4BCB203DA0E741BEF955D8F0.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_4_Auto0.uasset'
+[2024.12.02-18.01.06:598][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_5] ([1] browsable assets)...
+[2024.12.02-18.01.06:598][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_5]
+[2024.12.02-18.01.06:598][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_5_Auto0
+[2024.12.02-18.01.06:598][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_5_Auto01BDBAAF547B69AA9719E618D4FDE85EA.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_5_Auto0.uasset'
+[2024.12.02-18.01.06:599][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_6] ([1] browsable assets)...
+[2024.12.02-18.01.06:599][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_6]
+[2024.12.02-18.01.06:600][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_6_Auto0
+[2024.12.02-18.01.06:600][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_6_Auto0981FF0354551A118D6733FA45399715F.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_6_Auto0.uasset'
+[2024.12.02-18.01.06:601][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_7] ([1] browsable assets)...
+[2024.12.02-18.01.06:601][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_7]
+[2024.12.02-18.01.06:606][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_7_Auto0
+[2024.12.02-18.01.06:608][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox_Sprite_7_Auto01C2C1D33497C16BD7E26EE8600CA7FD1.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox_Sprite_7_Auto0.uasset'
+[2024.12.02-18.01.06:608][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sprites/Other_Guys/lehamster/booomblox1] ([1] browsable assets)...
+[2024.12.02-18.01.06:608][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Other_Guys/lehamster/booomblox1]
+[2024.12.02-18.01.06:608][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox1_Auto0
+[2024.12.02-18.01.06:608][141]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/booomblox1_Auto0FEADCAA34ACBE87BED7050A3CED7D506.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/Sprites/Other_Guys/lehamster/booomblox1_Auto0.uasset'
+[2024.12.02-18.01.06:608][141]LogFileHelpers: Auto-saving content packages took 0.161
+[2024.12.02-18.03.47:747][888]LogViewport: Scene viewport resized to 1666x477, mode Windowed.
+[2024.12.02-18.03.47:792][889]LogViewport: Scene viewport resized to 1682x477, mode Windowed.
+[2024.12.02-18.03.48:058][890]LogViewport: Scene viewport resized to 2073x477, mode Windowed.
+[2024.12.02-18.03.49:578][ 44]LogViewport: Scene viewport resized to 2073x480, mode Windowed.
+[2024.12.02-18.03.49:597][ 45]LogViewport: Scene viewport resized to 2073x498, mode Windowed.
+[2024.12.02-18.03.49:628][ 46]LogViewport: Scene viewport resized to 2073x552, mode Windowed.
+[2024.12.02-18.03.49:663][ 47]LogViewport: Scene viewport resized to 2073x592, mode Windowed.
+[2024.12.02-18.03.49:713][ 48]LogViewport: Scene viewport resized to 2073x642, mode Windowed.
+[2024.12.02-18.03.49:760][ 49]LogViewport: Scene viewport resized to 2073x680, mode Windowed.
+[2024.12.02-18.03.49:783][ 50]LogViewport: Scene viewport resized to 2073x696, mode Windowed.
+[2024.12.02-18.03.49:804][ 51]LogViewport: Scene viewport resized to 2073x703, mode Windowed.
+[2024.12.02-18.03.49:823][ 52]LogViewport: Scene viewport resized to 2073x708, mode Windowed.
+[2024.12.02-18.03.49:843][ 53]LogViewport: Scene viewport resized to 2073x720, mode Windowed.
+[2024.12.02-18.03.49:861][ 54]LogViewport: Scene viewport resized to 2073x728, mode Windowed.
+[2024.12.02-18.03.49:880][ 55]LogViewport: Scene viewport resized to 2073x746, mode Windowed.
+[2024.12.02-18.03.49:902][ 56]LogViewport: Scene viewport resized to 2073x759, mode Windowed.
+[2024.12.02-18.03.49:921][ 57]LogViewport: Scene viewport resized to 2073x778, mode Windowed.
+[2024.12.02-18.03.49:941][ 58]LogViewport: Scene viewport resized to 2073x791, mode Windowed.
+[2024.12.02-18.03.49:959][ 59]LogViewport: Scene viewport resized to 2073x806, mode Windowed.
+[2024.12.02-18.03.49:976][ 60]LogViewport: Scene viewport resized to 2073x811, mode Windowed.
+[2024.12.02-18.03.49:995][ 61]LogViewport: Scene viewport resized to 2073x814, mode Windowed.
+[2024.12.02-18.03.50:021][ 63]LogViewport: Scene viewport resized to 2073x816, mode Windowed.
+[2024.12.02-18.03.50:040][ 64]LogViewport: Scene viewport resized to 2073x820, mode Windowed.
+[2024.12.02-18.03.50:058][ 65]LogViewport: Scene viewport resized to 2073x822, mode Windowed.
+[2024.12.02-18.03.50:076][ 66]LogViewport: Scene viewport resized to 2073x823, mode Windowed.
+[2024.12.02-18.03.51:682][242]LogEditorViewport: Clicking Background
+[2024.12.02-18.11.06:779][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.02-18.11.06:782][586]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Ham' took 0.019
+[2024.12.02-18.11.06:782][586]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12] ([2] browsable assets)...
+[2024.12.02-18.11.06:782][586]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12]
+[2024.12.02-18.11.06:821][586]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12_Auto1
+[2024.12.02-18.11.06:821][586]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/BP_ThirdPersonCharacter12_Auto190EDAAA7407F141F3D2893A8AE5C1EEA.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12_Auto1.uasset'
+[2024.12.02-18.11.06:822][586]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.12.02-18.13.18:244][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-18.13.18:308][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Chatbox" FILE="../../../../../(more) Projects/SnackrificeXD/Content/Blueprints/BP_Chatbox.uasset" SILENT=true
+[2024.12.02-18.13.18:330][833]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Chatbox
+[2024.12.02-18.13.18:330][833]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/BP_ChatboxB64B40B54B62C946E2B1E395919D4C76.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/Blueprints/BP_Chatbox.uasset'
+[2024.12.02-18.13.18:341][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 12.5 sec)
+[2024.12.02-18.13.18:343][833]AssetCheck: New page: Asset Save: BP_Chatbox
+[2024.12.02-18.13.18:343][833]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Chatbox.BP_Chatbox
+[2024.12.02-18.13.19:800][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.02-18.13.19:894][993]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12
+[2024.12.02-18.13.19:895][993]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/BP_ThirdPersonCharacter126DEAB6284769EA7C115773852B72A7A2.tmp' to '../../../../../(more) Projects/SnackrificeXD/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12.uasset'
+[2024.12.02-18.13.19:908][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 12.6 sec)
+[2024.12.02-18.13.19:910][993]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter12
+[2024.12.02-18.13.19:910][993]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12.BP_ThirdPersonCharacter12
+[2024.12.02-18.14.57:515][308]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.157 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1766 files in 2854 folders with total size 105 MiB.
+[2024.12.02-18.19.04:863][198]LogEditorViewport: Clicking Background
+[2024.12.02-18.23.38:671][149]LogViewport: Scene viewport resized to 1553x818, mode Windowed.
+[2024.12.02-18.24.32:840][ 25]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.02-18.24.32:850][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.02-18.24.32:850][ 25]PIE: New page: PIE session: Ham (Dec. 2, 2024, 8:24:32 a.m.)
+[2024.12.02-18.24.32:851][ 25]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Ham
+[2024.12.02-18.24.32:853][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002697s)
+[2024.12.02-18.24.32:853][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Ham.Ham to /Game/Levels/UEDPIE_0_Ham.Ham (0.002766s)
+[2024.12.02-18.24.32:871][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.02-18.24.32:873][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.02-18.24.32:873][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.02-18.24.32:873][ 25]LogAIModule: Creating AISystem for world Ham
+[2024.12.02-18.24.32:874][ 25]LogPlayLevel: PIE: World Init took: (0.001511s)
+[2024.12.02-18.24.32:874][ 25]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2024.12.02-18.24.32:874][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.02-18.24.32:874][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.02-18.24.32:874][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.02-18.24.32:874][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.02-18.24.32:874][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.02-18.24.32:874][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.02-18.24.32:874][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.02-18.24.32:874][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.02-18.24.32:875][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.02-18.24.32:875][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.02-18.24.32:875][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.02-18.24.32:880][ 25]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.02-18.24.32:937][ 25]LogAudioMixer: Display: Using Audio Hardware Device LOUD BL AUDIO DRAMA (Realtek High Definition Audio)
+[2024.12.02-18.24.32:937][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.02-18.24.32:937][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.02-18.24.32:937][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.02-18.24.32:938][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2024.12.02-18.24.32:938][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2024.12.02-18.24.32:942][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2024.12.02-18.24.32:942][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2024.12.02-18.24.32:942][ 25]LogInit: FAudioDevice initialized with ID 71.
+[2024.12.02-18.24.32:942][ 25]LogAudio: Display: Audio Device (ID: 71) registered with world 'Ham'.
+[2024.12.02-18.24.32:942][ 25]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2024.12.02-18.24.32:945][ 25]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.02-18.24.32:946][ 25]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Ham.Ham up for play (max tick rate 0) at 2024.12.02-13.24.32
+[2024.12.02-18.24.32:946][ 25]LogWorld: Bringing up level for play took: 0.000934
+[2024.12.02-18.24.32:950][ 25]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.12.02-18.24.32:951][ 25]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-18.24.32:951][ 25]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2024.12.02-18.24.32:951][ 25]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-18.24.32:952][ 25]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2024.12.02-18.24.32:952][ 25]PIE: Server logged in
+[2024.12.02-18.24.32:953][ 25]PIE: Play in editor total start time 0.103 seconds.
+[2024.12.02-18.25.17:901][394]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.19:428][577]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.21:572][834]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.26:009][366]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.26:336][405]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.26:844][466]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.27:561][552]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.28:161][624]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.33:049][206]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.34:228][347]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.35:887][546]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.25.37:081][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter12_C_0] Hello
+[2024.12.02-18.26.14:444][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-18.26.14:444][148]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Ham
+[2024.12.02-18.26.14:444][148]LogWorld: UWorld::CleanupWorld for Ham, bSessionEnded=true, bCleanupResources=true
+[2024.12.02-18.26.14:445][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-18.26.14:492][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.02-18.26.14:497][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.02-18.26.14:510][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.02-18.26.14:510][148]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2024.12.02-18.26.14:510][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2024.12.02-18.26.14:513][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2024.12.02-18.26.14:523][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.12.02-18.26.14:627][149]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2024.12.02-18.26.50:976][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.12.02-18.26.50:979][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Ham' took 0.027
+[2024.12.02-18.26.50:979][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12] ([2] browsable assets)...
+[2024.12.02-18.26.50:979][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12]
+[2024.12.02-18.26.51:019][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12_Auto2
+[2024.12.02-18.26.51:019][283]LogSavePackage: Moving '../../../../../(more) Projects/SnackrificeXD/Saved/BP_ThirdPersonCharacter12_Auto287F66A3E47F18586C9778F8EAB393BD7.tmp' to '../../../../../(more) Projects/SnackrificeXD/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter12_Auto2.uasset'
+[2024.12.02-18.26.51:020][283]LogFileHelpers: Auto-saving content packages took 0.041
+[2024.12.02-19.14.56:492][108]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.134 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1766 files in 2854 folders with total size 105 MiB.
